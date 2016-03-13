@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dávid Balatoni -- Developement -- @balcsida
 
 # THANKS
 
-    <name>
+    János Balogh (joex) for writing the base group rules
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Bootstrap, Winstrap
